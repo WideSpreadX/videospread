@@ -4,6 +4,7 @@
   "description": "RTC Video/Audio Chat",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "repository": {
